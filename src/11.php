@@ -1,6 +1,6 @@
 <?php
   echo "<pre>";
-  echo "Lab - 10<br>";
+  echo "Lab - 11<br>";
   echo "PHP program to show passing argument and returning value in php:<br><br>";
 
 
