@@ -1,7 +1,7 @@
 <?php
   echo "<pre>";
   echo "Lab - 07<br>";
-  echo "PHP program to print fibonacci series without using recursion and using recursion:<br><br>";
+  echo "PHP program to print Fibonacci series with and without using recursion:<br><br>";
 
 
   $number = 10;

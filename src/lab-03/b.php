@@ -1,7 +1,7 @@
 <?php
   echo "<pre>";
   echo "Lab - 10<br>";
-  echo "PHP function to find cube of given number:<br><br>";
+  echo "PHP program find cube of given number using function:<br><br>";
 
 
   $number = 'a';
