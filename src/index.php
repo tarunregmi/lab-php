@@ -59,29 +59,24 @@
     <li>
       <p>LAB-06: Cookies and Sessions</p>
       <ol type='a'>
-        <li><a href="./lab-05/a.php" target="_blank">PHP program to set cookie value and display it.</a></li>
-        <li><a href="./lab-05/b.php" target="_blank">PHP program to start and end session variable.</a></li>
+        <li><a href="./lab-06/a.php" target="_blank">PHP program to set cookie value and display it.</a></li>
+        <li><a href="./lab-06/b.php" target="_blank">PHP program to start and end session variable.</a></li>
       </ol>
     </li>
 
     <li>
       <p>LAB-07: Debugging PHP</p>
       <ol type='a'>
-        <li><a href="./lab-05/a.php" target="_blank">Example of error handlers to print error.</a></li>
-        <li><a href="./lab-05/b.php" target="_blank">Custom exception in PHP to confirm only students above 18 years can vote in college election.</a></li>
-        <li><a href="./lab-05/c.php" target="_blank">Example to demonstrate handling multiple exceptions.</a></li>
-        <li><a href="./lab-05/d.php" target="_blank">Example to sho how top level handler can handle exceptions without catch block.</a></li>
-        <li><a href="./lab-05/e.php" target="_blank">Example of error suppression.</a></li>
+        <li><a href="./lab-07/a.php" target="_blank">Example of error handlers to print error.</a></li>
+        <li><a href="./lab-07/b.php" target="_blank">Example of error suppression.</a></li>
       </ol>
     </li>
 
     <li>
       <p>LAB-08: File Handling</p>
       <ol type='a'>
-        <li><a href="./lab-05/a.php" target="_blank">PHP program to read a file which contains numbers 1 to 10, extract odd numbers in odd.txt and even numbers in even.txt file.</a></li>
-        <li><a href="./lab-05/b.php" target="_blank">PHP program to upload a file.</a></li>
-        <li><a href="./lab-05/c.php" target="_blank">PHP program to parse a CSV file and display its contents.</a></li>
-        <li><a href="./lab-05/d.php" target="_blank">PHP program to parse a JSON file and display its contents.</a></li>
+        <li><a href="./lab-08/a.php" target="_blank">PHP program to parse a CSV file and display its contents.</a></li>
+        <li><a href="./lab-08/b.php" target="_blank">PHP program to parse a JSON file and display its contents.</a></li>
       </ol>
     </li>
   </ol>

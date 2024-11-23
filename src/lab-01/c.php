@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 02<br>";
   echo "PHP program to check prime number:<br><br>";
 
 

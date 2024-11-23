@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 05<br>";
   echo "PHP program to check Armstrong number:<br><br>";
 
 

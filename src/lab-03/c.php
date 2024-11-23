@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 04<br>";
   echo "PHP program to print factorial of a number:<br><br>";
 
 

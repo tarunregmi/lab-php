@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 07<br>";
   echo "PHP program to print Fibonacci series with and without using recursion:<br><br>";
 
 

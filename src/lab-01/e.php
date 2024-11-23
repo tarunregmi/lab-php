@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 08<br>";
   echo "PHP program to reverse given number:<br><br>";
 
 

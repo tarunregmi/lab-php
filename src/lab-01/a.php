@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 01<br>";
   echo "PHP program to print sum of digits:<br><br>";
 
 

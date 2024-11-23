@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 13<br>";
   echo "PHP program remove specific element by value from an array:<br><br>";
 
 

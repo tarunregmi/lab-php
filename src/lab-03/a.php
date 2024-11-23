@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 09<br>";
   echo "PHP program to write your information using function:<br><br>";
 
 

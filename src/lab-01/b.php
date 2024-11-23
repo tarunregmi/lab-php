@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 02<br>";
   echo "PHP program to print Even or odd number:<br><br>";
 
 

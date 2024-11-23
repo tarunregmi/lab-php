@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 13<br>";
   echo "PHP program to count the words in the string:<br><br>";
 
 

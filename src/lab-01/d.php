@@ -1,6 +1,5 @@
 <?php
   echo "<pre>";
-  echo "Lab - 06<br>";
   echo "PHP program to check palindrome number:<br><br>";
 
 
